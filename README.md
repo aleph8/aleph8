@@ -30,6 +30,6 @@
 :spider: **Main Projects**
 
 <div>
-<a href="https://www.alejandrogp.com/laboratory/arachne"><img hspace="15" width="300" height="300" src="https://github.com/aleph8/aleph8/blob/main/logos/arachnelogo.png?raw=true"></a>
-<a href="https://www.alejandrogp.com/laboratory/eos"><img hspace="15" width="300" height="300" src="https://github.com/aleph8/aleph8/blob/main/logos/eoslogo.png?raw=true"></a>
+<a href="https://www.alejandrogp.com/laboratory/arachne"><img hspace="15" width="250" height="250" src="https://github.com/aleph8/aleph8/blob/main/logos/arachnelogo.png?raw=true"></a>
+<a href="https://www.alejandrogp.com/laboratory/eos"><img hspace="15" width="250" height="250" src="https://github.com/aleph8/aleph8/blob/main/logos/eoslogo.png?raw=true"></a>
 </div>
