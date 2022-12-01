@@ -29,4 +29,10 @@
 ***
 :spider: **Main Projects**
 
-
+<table>
+<tr>
+  <td> <img width="100" height="100" src="https://github.com/aleph8/aleph8/blob/main/logos/arachnelogo.png?raw=true"> </td>
+  <td><strong>Horas</strong></td>
+  <td><strong>Horario</strong></td>
+</tr>
+</table>
