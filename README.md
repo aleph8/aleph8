@@ -2,7 +2,6 @@
 
 <br>
 <p align="center"><a href="https://github.com/aleph8">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=aleph8&theme=dark&show_icons=true&hide=prs,issues,contribs&line_height=20&disable_animations=false">  
 </a></p>
 
 *** 
