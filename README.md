@@ -1,9 +1,5 @@
 :arrow_heading_up: **I’m searching ...**
 
-<br>
-<p align="center"><a href="https://github.com/aleph8">
-</a></p>
-
 *** 
 
 :link: **Links**
