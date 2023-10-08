@@ -13,18 +13,18 @@
 
 <!-- PUBLICATIONS-LIST:START -->
 
-- [Digital Key,the good side of Rubber Ducky](https://www.alejandrogp.com/electronics/digital-keythe-good-side-of-rubber-ducky)
-- [Different memories in microcontrollers](https://www.alejandrogp.com/electronics/different-memories-in-microcontrollers)
-- [Digging into cryptography](https://www.alejandrogp.com/software/digging-into-cryptography)
-- [Stable Diffusion Bot](https://www.alejandrogp.com/software/stable-diffusion-bot)
-- [Arachne a bio-inspired project](https://www.alejandrogp.com/laboratory/arachne)
+- [Math Basis on Quantum Computing](https://alejandrogp.com/graphs/quantum/15082023.html)
+- [Data Mining with R](https://alejandrogp.com/graphs/pillars/07032023.html)
+- [Pentesting Scripts](https://alejandrogp.com/graphs/cybersecurity/03032023.html)
 
 <!-- PUBLICATIONS-LIST:END -->
 
 ***
-:spider: **Main Projects**
+
+:mount_fuji: **Projects**
 
 <div>
-<a href="https://www.alejandrogp.com/laboratory/arachne"><img hspace="15" width="250" height="250" src="https://github.com/aleph8/aleph8/blob/main/logos/arachnelogo.png?raw=true"></a>
-<a href="https://www.alejandrogp.com/laboratory/eos"><img hspace="15" width="250" height="250" src="https://github.com/aleph8/aleph8/blob/main/logos/eoslogo.png?raw=true"></a>
+<a href="https://www.alejandrogp.com/laboratory/eos"><img hspace="15" width="120"  src="https://github.com/aleph8/Sealed/blob/main/src/img/sealed.svg?raw=true"></a>
+<a href="https://www.alejandrogp.com/laboratory/arachne"><img hspace="15" width="120" src="https://github.com/aleph8/aleph8/blob/main/logos/arachnelogo.png?raw=true"></a>
+<a href="https://www.alejandrogp.com/laboratory/eos"><img hspace="15" width="120"  src="https://github.com/aleph8/aleph8/blob/main/logos/eoslogo.png?raw=true"></a>
 </div>
