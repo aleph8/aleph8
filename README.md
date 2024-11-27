@@ -24,6 +24,7 @@
 :mount_fuji: **Projects**
 
 <div>
+<a href="https://github.com/aleph8/Iconic"><img hspace="15" width="120"  src="https://github.com/aleph8/Iconic/blob/main/docs/img/iconic-logo.png?raw=true"></a>
 <a href="https://github.com/aleph8/Sealed"><img hspace="15" width="120"  src="https://github.com/aleph8/Sealed/blob/main/src/img/sealed.svg?raw=true"></a>
 <a href="https://github.com/aleph8/Arachne"><img hspace="15" width="120" src="https://github.com/aleph8/aleph8/blob/main/logos/arachnelogo.png?raw=true"></a>
 <a href="https://github.com/aleph8/EOS"><img hspace="15" width="120"  src="https://github.com/aleph8/aleph8/blob/main/logos/eoslogo.png?raw=true"></a>
